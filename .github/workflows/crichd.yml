@@ -1,0 +1,27 @@
+name: CricHD Scrape
+
+on:
+  schedule:
+    - cron: '*/50 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm init -y && npm install playwright && npx playwright install chromium
+      - run: xvfb-run --auto-servernum node crichd-m3u8.js > streams.json 2>/dev/null
+      - name: Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add streams.json
+          git diff --cached --quiet || git commit -m "update $(date -u +%H:%M)"
+          git push
