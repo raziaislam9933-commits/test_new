@@ -1,42 +1,9 @@
-  ⏳ Star Sports 1... ✅
-  ⏳ Willow... ✅
-  ⏳ Star Sports 2... ✅
-  ⏳ Star Sports 1 Hindi... ✅
-  ⏳ Willow 2... ✅
-  ⏳ Willow HD... ✅
-  ⏳ Star Sports 1 Tamil... ✅
-  ⏳ Star Sports 1 Telugu... ✅
-{
-  "starsp1": {
-    "name": "Star Sports 1",
-    "url": "https://dz3.bhalocast.com:7059/hls/star1kibich.m3u8?md5=oo-go8evvqomDxtFPeaaVg&expires=1775932703&ch=star1kibich&s=5a8ef31a52d3a4609120b72449b30610"
-  },
-  "willow": {
-    "name": "Willow",
-    "url": "https://dz4.bhalocast.com:7059/hls/willowala.m3u8?md5=J20LSI5SARYd5qooBsKtRQ&expires=1775932706&ch=willowala&s=12bd1cc370c10ef04e8ebab26a6d5ee8"
-  },
-  "starsp2": {
-    "name": "Star Sports 2",
-    "url": "https://dz3.bhalocast.com:7059/hls/star2cl.m3u8?md5=FLZUBOjImwQXo3ziO-sgUA&expires=1775932708&ch=star2cl&s=6659346beb26f0a2df2864917c40a147"
-  },
-  "starsp3": {
-    "name": "Star Sports 1 Hindi",
-    "url": "https://dz4.bhalocast.com:7059/hls/str1lhil.m3u8?md5=1PfN3Dmr2n5YSuuUaQOPdA&expires=1775932711&ch=str1lhil&s=6cd48d10cc1b77bfc4bd4a9a1c3b1bf1"
-  },
-  "willowextra": {
-    "name": "Willow 2",
-    "url": "https://dz3.bhalocast.com:7059/hls/wextres.m3u8?md5=rGFMGahNe61v6OuJx4WmKw&expires=1775932713&ch=wextres&s=7fc9572b675421ad2667ffb3584c410c"
-  },
-  "willowhd": {
-    "name": "Willow HD",
-    "url": "https://dz4.bhalocast.com:7059/hls/hdwillos.m3u8?md5=HCa35CllWZ_IY8vnIixOyg&expires=1775932716&ch=hdwillos&s=3e3a19fbf52bbbb1356a727bfeeeae18"
-  },
-  "starsp1tam": {
-    "name": "Star Sports 1 Tamil",
-    "url": "https://dz3.bhalocast.com:7059/hls/star1tamil.m3u8?md5=1wyHGYotehWocS0gqvyqbw&expires=1775932718&ch=star1tamil&s=ad408e9a861fdac086eaec07d237aba2"
-  },
-  "starsp1tel": {
-    "name": "Star Sports 1 Telugu",
-    "url": "https://dz4.bhalocast.com:7059/hls/star1telu.m3u8?md5=UbN-1Iy-qdV08n2vyHTsBw&expires=1775932721&ch=star1telu&s=6b260864a3b32d9b0129de4f3e1d7c46"
-  }
-}
+  ⏳ Star Sports 1... ❌
+  ⏳ Willow... ❌
+  ⏳ Star Sports 2... ❌
+  ⏳ Star Sports 1 Hindi... ❌
+  ⏳ Willow 2... ❌
+  ⏳ Willow HD... ❌
+  ⏳ Star Sports 1 Tamil... ❌
+  ⏳ Star Sports 1 Telugu... ❌
+{}
