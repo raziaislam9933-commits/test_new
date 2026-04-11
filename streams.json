@@ -1,9 +1,42 @@
-  ⏳ Star Sports 1... ❌
-  ⏳ Willow... ❌
-  ⏳ Star Sports 2... ❌
-  ⏳ Star Sports 1 Hindi... ❌
-  ⏳ Willow 2... ❌
-  ⏳ Willow HD... ❌
-  ⏳ Star Sports 1 Tamil... ❌
-  ⏳ Star Sports 1 Telugu... ❌
-{}
+  ⏳ Star Sports 1... ✅
+  ⏳ Willow... ✅
+  ⏳ Star Sports 2... ✅
+  ⏳ Star Sports 1 Hindi... ✅
+  ⏳ Willow 2... ✅
+  ⏳ Willow HD... ✅
+  ⏳ Star Sports 1 Tamil... ✅
+  ⏳ Star Sports 1 Telugu... ✅
+{
+  "starsp1": {
+    "name": "Star Sports 1",
+    "url": "https://dz3.bhalocast.com:7059/hls/star1kibich.m3u8?md5=TjZUZO3KOivRe909aesdOA&expires=1775940307&ch=star1kibich&s=eb4033d074e29504f22c2b9222db52fb"
+  },
+  "willow": {
+    "name": "Willow",
+    "url": "https://dz4.bhalocast.com:7059/hls/willowala.m3u8?md5=JkSG7lD0paN1OrYnUZFAQQ&expires=1775940311&ch=willowala&s=eecece835b4f258357b524c70d34c0a5"
+  },
+  "starsp2": {
+    "name": "Star Sports 2",
+    "url": "https://dz3.bhalocast.com:7059/hls/star2cl.m3u8?md5=Ftpx57gUCVmP13vSYQz_9g&expires=1775940314&ch=star2cl&s=000ee48956e01f12ebce2cc84b8d8b15"
+  },
+  "starsp3": {
+    "name": "Star Sports 1 Hindi",
+    "url": "https://dz3.bhalocast.com:7059/hls/str1lhil.m3u8?md5=7-_nNQnEdI0wkhLi9m5rWg&expires=1775940317&ch=str1lhil&s=77062428a775e488bf2c596a837d03d7"
+  },
+  "willowextra": {
+    "name": "Willow 2",
+    "url": "https://dz3.bhalocast.com:7059/hls/wextres.m3u8?md5=7b3hzrBWfmoWmHdbxv8cTA&expires=1775940321&ch=wextres&s=a9650e703b8ccac9b5121bb29da584a7"
+  },
+  "willowhd": {
+    "name": "Willow HD",
+    "url": "https://dz4.bhalocast.com:7059/hls/hdwillos.m3u8?md5=y1U8uv3gNe90jYf0q8ttmw&expires=1775940325&ch=hdwillos&s=0b1cc17528e7bd9f7593c27284553097"
+  },
+  "starsp1tam": {
+    "name": "Star Sports 1 Tamil",
+    "url": "https://dz4.bhalocast.com:7059/hls/star1tamil.m3u8?md5=cL7bouKHz-y8y967jCWXyQ&expires=1775940328&ch=star1tamil&s=29d2ba87e92b4ad9c63b32b4c26f082e"
+  },
+  "starsp1tel": {
+    "name": "Star Sports 1 Telugu",
+    "url": "https://dz3.bhalocast.com:7059/hls/star1telu.m3u8?md5=lspcaGpBzbxGZhUcRfWysw&expires=1775940332&ch=star1telu&s=0eccef2d94200a3197f76daef0dec73a"
+  }
+}
