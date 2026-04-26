@@ -9,34 +9,34 @@
 {
   "starsp1": {
     "name": "Star Sports 1",
-    "url": "https://dz3.bhalocast.com:7059/hls/star1kibich2.m3u8?md5=HNt0r01wv6zQMNJs7j7x-Q&expires=1777204266&ch=star1kibich2&s=ab29bff106762c831874e9280e4655d6"
+    "url": "https://dz3.bhalocast.com:7059/hls/star1kibich2.m3u8?md5=eTY1teupwX7PjQhBTJpUJw&expires=1777207634&ch=star1kibich2&s=6eac7fbe7c7f2d95c3662599f0c61216"
   },
   "willow": {
     "name": "Willow",
-    "url": "https://dz4.bhalocast.com:7059/hls/willowala2.m3u8?md5=ZYfyacoRiH0lXo98vwVp4A&expires=1777204271&ch=willowala2&s=6463603a8fe783f50d142bf4a1ed8ecb"
+    "url": "https://jan.bhalocast.com:7059/hls/willowala2.m3u8?md5=JcAnsrXNyTGFf3zuX3i1Mg&expires=1777207639&ch=willowala2&s=8827e72431049cbdd3048c4591be212e"
   },
   "starsp2": {
     "name": "Star Sports 2",
-    "url": "https://dz4.bhalocast.com:7059/hls/star2cl2.m3u8?md5=-Y3Zs0XEkVJBkF-40eLz1Q&expires=1777204276&ch=star2cl2&s=9af3824cb008afd784acaa9c1edd9ecc"
+    "url": "https://jan.bhalocast.com:7059/hls/star2cl2.m3u8?md5=0cwxMioknV1K-LbW9dpKFw&expires=1777207644&ch=star2cl2&s=6f95cd87426953d2508a1bc4d4851a1c"
   },
   "starsp3": {
     "name": "Star Sports 1 Hindi",
-    "url": "https://dz2.bhalocast.com:7059/hls/str1lhil2.m3u8?md5=PWhRQlTpsRkAkx--F1l7JA&expires=1777204280&ch=str1lhil2&s=c789752782332485473b35a0f1e7fe2d"
+    "url": "https://jan.bhalocast.com:7059/hls/str1lhil2.m3u8?md5=OzQRj55gq6QVPevDjBrWJg&expires=1777207648&ch=str1lhil2&s=63af2e1150b66770acac5725132dd08d"
   },
   "willowextra": {
     "name": "Willow 2",
-    "url": "https://dz3.bhalocast.com:7059/hls/wextres2.m3u8?md5=WK_rX8TfgzIlQWL1Mblwkw&expires=1777204284&ch=wextres2&s=bca12b7598ef33d3efbaadd8f4648f89"
+    "url": "https://jan.bhalocast.com:7059/hls/wextres2.m3u8?md5=Q6pN2DbqQ7prmnjRujBKDg&expires=1777207653&ch=wextres2&s=6502daa6c868644921c238db719a38b0"
   },
   "willowhd": {
     "name": "Willow HD",
-    "url": "https://dz2.bhalocast.com:7059/hls/hdwillos2.m3u8?md5=Ulnu_X8ydlDo07kw8oxHlA&expires=1777204289&ch=hdwillos2&s=6490de6d7168a4fe860d3472f393bfff"
+    "url": "https://dz3.bhalocast.com:7059/hls/hdwillos2.m3u8?md5=6MOokFZOMmMiNs5tROivOA&expires=1777207658&ch=hdwillos2&s=0de2af0dbb90e7c1c0b3180698071fd7"
   },
   "starsp1tam": {
     "name": "Star Sports 1 Tamil",
-    "url": "https://dz2.bhalocast.com:7059/hls/star1tamil2.m3u8?md5=iuLJ2kDgGWKJ58kUVT5fNA&expires=1777204293&ch=star1tamil2&s=4ae8d946479aa02a121fc84c5550fb5c"
+    "url": "https://dz2.bhalocast.com:7059/hls/star1tamil2.m3u8?md5=P09YbqxEFSWh7Y0uRtFqHA&expires=1777207662&ch=star1tamil2&s=3a22c6bdd63aec399d45dcdd0cd65f95"
   },
   "starsp1tel": {
     "name": "Star Sports 1 Telugu",
-    "url": "https://dz4.bhalocast.com:7059/hls/star1telu2.m3u8?md5=AJG-_rywzDfRCLB7eZ7mwg&expires=1777204298&ch=star1telu2&s=008c4697b6fb00455ba5faa11e16ecbb"
+    "url": "https://dz3.bhalocast.com:7059/hls/star1telu2.m3u8?md5=oDdfx1woaKC5vQcp1g-JZA&expires=1777207667&ch=star1telu2&s=3c13b35d744f4b04226d1814649d5c67"
   }
 }
